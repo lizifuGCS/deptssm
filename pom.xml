@@ -127,7 +127,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>4.3.14.RELEASE</version>
+      <version>5.2.20.RELEASE</version>
     </dependency>
 
     <!--添加spring和springMVC的依赖       end=========================-->
